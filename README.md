@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais Arshad</h1>
+<h1 align="center">Hi👋, I'm Muhammad Awais Arshad</h1>
 <h3 align="center">Recent Software Engineering graduate with a passion for AI.</h3>
 
 - 🌱 I’m currently learning **Python, Deep Learning, and Generative AI.**
